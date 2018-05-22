@@ -1,0 +1,1 @@
+This folder is for configuration of the Bamboo continuous integration server.
